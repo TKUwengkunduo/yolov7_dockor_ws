@@ -1,10 +1,10 @@
 # YOLOv7 Docker workspace
-### YOLOv7訓練環境 `rgb(211,211,211)`
+### YOLOv7訓練環境 `rgb(211,211,211)`<br><br>
 
 
 ### 環境概況
 * Ubuntu20.04 
-* CUDA11.6+cudnn
+* CUDA11.6+cudnn<br>
 
 ### 套件版本
 * torch==1.12.1+cu116
@@ -19,7 +19,7 @@
 * tqdm==4.64.1
 * pandas==1.5.0
 * seaborn==0.12.0
-* scipy==1.9.1
+* scipy==1.9.1<br><br>
 
 
 ### Build
@@ -27,7 +27,7 @@
 cd yolov7_dockor_ws/docker
 ./build.sh
 ```
-    
+
 ### Run
 ```
 ./run.sh
