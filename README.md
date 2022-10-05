@@ -1,5 +1,5 @@
 # YOLOv7 Docker workspace
-### YOLOv7訓練環境
+### YOLOv7訓練環境 `rgb(211,211,211)`
 
 
 ### 環境概況
@@ -27,7 +27,7 @@
 cd yolov7_dockor_ws/docker
 ./build.sh
 ```
-
+    
 ### Run
 ```
 ./run.sh
