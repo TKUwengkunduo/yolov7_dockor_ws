@@ -3,9 +3,8 @@
 
 
 ### 環境概況
-* ubuntu20.04 
+* Ubuntu20.04 
 * CUDA11.6+cudnn
-* ubuntu20.04
 
 ### 套件版本
 * torch==1.12.1+cu116
