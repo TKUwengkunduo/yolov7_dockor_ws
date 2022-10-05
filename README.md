@@ -23,12 +23,12 @@
 
 
 ### Build
-'''
+```
 cd yolov7_dockor_ws/docker
 ./build.sh
-'''
+```
 
 ### Run
-'''
+```
 ./run.sh
-'''
+```
