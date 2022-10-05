@@ -1,6 +1,6 @@
 # YOLOv7 Docker workspace
-### YOLOv7訓練環境 `rgb(211,211,211)`<br><br>
-
+### YOLOv7訓練環境 `rgb(211,211,211)`
+<font color=#808080 size=12>YOLOv7訓練環境</font> <br><br>
 
 ### 環境概況
 * Ubuntu20.04 
