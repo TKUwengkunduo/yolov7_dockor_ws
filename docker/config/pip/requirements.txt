@@ -1,0 +1,30 @@
+# catkin build Dependent
+numpy==1.23.3
+opencv-python==4.6.0.66
+matplotlib==3.6.0
+osrf-pycommon==0.1.9
+PyYAML==6.0
+tensorboard==2.10.1
+tqdm==4.64.1
+pandas==1.5.0
+seaborn==0.12.0
+scipy==1.9.1
+
+
+
+# Export --------------------------------------
+# coremltools>=4.1  # CoreML export
+# onnx>=1.9.0  # ONNX export
+# onnx-simplifier>=0.3.6  # ONNX simplifier
+# scikit-learn==0.19.2  # CoreML quantization
+# tensorflow>=2.4.1  # TFLite export
+# tensorflowjs>=3.9.0  # TF.js export
+# openvino-dev  # OpenVINO export
+
+# Extras --------------------------------------
+ipython  # interactive notebook
+psutil  # system utilization
+thop  # FLOPs computation
+# albumentations>=1.0.3
+# pycocotools>=2.0  # COCO mAP
+# roboflow
