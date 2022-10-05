@@ -20,3 +20,12 @@
 * pandas==1.5.0
 * seaborn==0.12.0
 * scipy==1.9.1
+
+'''
+# Build
+cd yolov7_dockor_ws/docker
+./build.sh
+
+### Run
+./run.sh
+'''
